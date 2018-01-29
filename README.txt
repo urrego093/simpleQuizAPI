@@ -37,6 +37,7 @@ Improvements:
     - Fill the requirements.txt file
     - Use virtualenv for the app
     - Integrate to docker
+    - Add security by username and password.
 
 Software:
     - Python 2.7.9
